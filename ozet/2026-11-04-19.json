@@ -1,0 +1,86 @@
+{
+ "tarih": "2026-11-04",
+ "saat": 19,
+ "yayin": "19:45",
+ "tur": "yz",
+ "baslik": "4 Kasım Akşam Özeti: ABD'de Demokratlar Kongre'de öne çıktı, İsrail'de muhalefet 67 sandalyeyle resmileşti, borsa yüzde 4 yükseldi",
+ "giris": "AA, ABD ara seçimlerinde Demokratların Senato ve Temsilciler Meclisi'nde çoğunluğu elde ettiğini bildirdi. İsrail'de kesin sonuçlar açıklandı: Muhalefet 67, Netanyahu bloğu 53 sandalye aldı. Borsa İstanbul yüzde 4'ü aşan yükselişle 11.481 puana çıktı. Fenerbahçe bu akşam Liverpool'u ağırlıyor.",
+ "bolumler": [
+  {
+   "baslik": "Dünya",
+   "metin": "• ABD ara seçimlerinde Demokratların Senato ve Temsilciler Meclisi'nde çoğunluğu elde ettiği bildirildi; bazı yarışlarda sayım sürüyor. (AA)\n\n• Habertürk'ün derlemesine göre Trump seçim yenilgisini kabul ederken veto yetkisini kullanabileceğinin sinyalini verdi. (Habertürk)\n\n• İsrail Merkez Seçim Komitesi kesin sonuçları açıkladı: Muhalefet bloğu 67, Netanyahu bloğu 53 sandalye aldı. Muhalefetin 48 sandalyesi Eisenkot'un ittifakındaki partilere, 19'u Ortak Liste ve Raam'a ait. (Evrensel)\n\n• Cumhurbaşkanı Herzog'un hükümeti kurma görevini kime vereceğini belirlemek için partilerle istişarelere başlaması bekleniyor; yabancı müdahale iddialarına ilişkin soruşturma sürüyor. (Evrensel)",
+   "haberler": [
+    {
+     "metin": "ABD ara seçimlerinde Demokratların Senato ve Temsilciler Meclisi'nde çoğunluğu elde ettiği bildirildi; bazı yarışlarda sayım sürüyor.",
+     "kaynak": "AA",
+     "link": "https://aa.com.tr/tr/live-blog/abddeki-secimlerde-demokratlar-senato-ve-temsilciler-meclisinde-cogunlugu-elde-etti/7124"
+    },
+    {
+     "metin": "Habertürk'ün derlemesine göre Trump seçim yenilgisini kabul ederken veto yetkisini kullanabileceğinin sinyalini verdi.",
+     "kaynak": "Habertürk",
+     "link": "https://www.haberturk.com/video/haber/izle/bugun-ne-oldu-4-kasim-2026-haberleri-abdde-ilklere-sahne-olan-secim-trump-yenilgiyi-kabul-etti-veto-kartini-gosterdi-irandan-ilk-yorum-piyasala/922125"
+    },
+    {
+     "metin": "İsrail Merkez Seçim Komitesi kesin sonuçları açıkladı: Muhalefet bloğu 67, Netanyahu bloğu 53 sandalye aldı. Muhalefetin 48 sandalyesi Eisenkot'un ittifakındaki partilere, 19'u Ortak Liste ve Raam'a ait.",
+     "kaynak": "Evrensel",
+     "link": "https://evrensel.net/haber/6007991/israilde-secim-sonuclari-kesinlesti-muhalefet-67-netanyahu-bloku-53-sandalye-aldi"
+    },
+    {
+     "metin": "Cumhurbaşkanı Herzog'un hükümeti kurma görevini kime vereceğini belirlemek için partilerle istişarelere başlaması bekleniyor; yabancı müdahale iddialarına ilişkin soruşturma sürüyor.",
+     "kaynak": "Evrensel",
+     "link": "https://evrensel.net/haber/6007991/israilde-secim-sonuclari-kesinlesti-muhalefet-67-netanyahu-bloku-53-sandalye-aldi"
+    }
+   ]
+  },
+  {
+   "baslik": "Ekonomi",
+   "metin": "• BIST 100 endeksi yüzde 4'ü aşan yükselişle 11.481 puana çıktı; gram altın yüzde 2,9 artışla 6.490 lira, ons altın 4.030 dolar civarında, Brent petrol 101 dolar seviyesinde. (Bloomberg HT)\n\n• İhracata gelecek yıl 65 milyar liralık destek sağlanacağı açıklandı. (AA)\n\n• Avrupa Merkez Bankası Başkanı Lagarde, Antalya'da yapılacak COP31 zirvesini hedeflerin eyleme dönüştürülmesi için 'büyük bir fırsat' olarak nitelendirdi. (AA)\n\n• Şekib Avdagiç, İstanbul Ticaret Odası Yönetim Kurulu Başkanlığı'na yeniden seçildi. (AA)",
+   "haberler": [
+    {
+     "metin": "BIST 100 endeksi yüzde 4'ü aşan yükselişle 11.481 puana çıktı; gram altın yüzde 2,9 artışla 6.490 lira, ons altın 4.030 dolar civarında, Brent petrol 101 dolar seviyesinde.",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/piyasa-ozeti-4-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3793536"
+    },
+    {
+     "metin": "İhracata gelecek yıl 65 milyar liralık destek sağlanacağı açıklandı.",
+     "kaynak": "AA",
+     "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-kasim-2026/4111532"
+    },
+    {
+     "metin": "Avrupa Merkez Bankası Başkanı Lagarde, Antalya'da yapılacak COP31 zirvesini hedeflerin eyleme dönüştürülmesi için 'büyük bir fırsat' olarak nitelendirdi.",
+     "kaynak": "AA",
+     "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-kasim-2026/4111532"
+    },
+    {
+     "metin": "Şekib Avdagiç, İstanbul Ticaret Odası Yönetim Kurulu Başkanlığı'na yeniden seçildi.",
+     "kaynak": "AA",
+     "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-04-kasim-2026/4111532"
+    }
+   ]
+  },
+  {
+   "baslik": "Spor",
+   "metin": "• Şampiyonlar Ligi'nde Fenerbahçe bu akşam 20.45'te Liverpool'u ağırlıyor. (NTVSpor)\n\n• Galatasaray dün Stuttgart'ı 2-0 yenerek Şampiyonlar Ligi'nde 6 puana yükselmişti. (Ajansspor)",
+   "haberler": [
+    {
+     "metin": "Şampiyonlar Ligi'nde Fenerbahçe bu akşam 20.45'te Liverpool'u ağırlıyor.",
+     "kaynak": "NTVSpor",
+     "link": "https://www.ntvspor.net/futbol/sampiyonlar-liginde-4-haftanin-mac-programi-432311"
+    },
+    {
+     "metin": "Galatasaray dün Stuttgart'ı 2-0 yenerek Şampiyonlar Ligi'nde 6 puana yükselmişti.",
+     "kaynak": "Ajansspor",
+     "link": "https://ajansspor.com/haber/galatasaray-stuttgart-2-0-mac-sonucu-mac-ozeti-yazili-737909"
+    }
+   ]
+  }
+ ],
+ "kaynaklar": [
+  "AA",
+  "Ajansspor",
+  "Bloomberg HT",
+  "Evrensel",
+  "Habertürk",
+  "NTVSpor"
+ ]
+}
