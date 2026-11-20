@@ -1,0 +1,95 @@
+{
+ "tarih": "2026-11-20",
+ "saat": "12:00",
+ "yayin": "2026-11-20T12:40:00+03:00",
+ "tur": "yz",
+ "baslik": "20 Kasım 2026 Sabah Özeti",
+ "giris": "COP31'de son gün: Uzlaşma için müzakerelerin uzaması bekleniyor. AB vizesi için Dışişleri ve AB Komisyonu Ankara'da ilk kez bir araya geldi. Trump, Putin görüşmesinin ardından barış konusunda iyimser. Ampute Milli Takımı Dünya Kupası çeyrek finalinde Japonya ile oynadı.",
+ "bolumler": [
+  {
+   "baslik": "Gündem",
+   "haberler": [
+    {
+     "metin": "AB vize kolaylığı için Dışişleri Bakanlığı ve AB Komisyonu yetkilileri Ankara'da ilk kez bir araya geldi",
+     "kaynak": "CNN Türk",
+     "link": "https://www.cnnturk.com/turkiye/20-kasim-2026-cuma-gununun-son-dakika-onemli-gelismeleri-cnn-turk-11-30-bulteni-3495665"
+    },
+    {
+     "metin": "İstanbul TEM Otoyolu'ndaki kazada 18 kişi yaralandı; Meteoroloji hafta sonu için yeni uyarılar yaptı",
+     "kaynak": "CNN Türk",
+     "link": "https://www.cnnturk.com/turkiye/20-kasim-2026-cuma-gununun-son-dakika-onemli-gelismeleri-cnn-turk-11-30-bulteni-3495665"
+    },
+    {
+     "metin": "Belediye başkanı ve başkan vekili seçimine yönelik yeni bir düzenleme gündemde; HGS cezaları için yeni formül tartışılıyor",
+     "kaynak": "CNN Türk",
+     "link": "https://www.cnnturk.com/turkiye/20-kasim-2026-cuma-gununun-son-dakika-onemli-gelismeleri-cnn-turk-11-30-bulteni-3495665"
+    },
+    {
+     "metin": "COP31'de resmi programın son günü; uzlaşma metni üzerindeki müzakerelerin uzaması bekleniyor",
+     "kaynak": "NTV",
+     "link": "https://www.ntv.com.tr/gundem/cop31-uzayabilir-uzlasma-saglanmasi-bekleniyor-1751725"
+    }
+   ],
+   "metin": "• AB vize kolaylığı için Dışişleri Bakanlığı ve AB Komisyonu yetkilileri Ankara'da ilk kez bir araya geldi (CNN Türk)\n\n• İstanbul TEM Otoyolu'ndaki kazada 18 kişi yaralandı; Meteoroloji hafta sonu için yeni uyarılar yaptı (CNN Türk)\n\n• Belediye başkanı ve başkan vekili seçimine yönelik yeni bir düzenleme gündemde; HGS cezaları için yeni formül tartışılıyor (CNN Türk)\n\n• COP31'de resmi programın son günü; uzlaşma metni üzerindeki müzakerelerin uzaması bekleniyor (NTV)"
+  },
+  {
+   "baslik": "Ekonomi",
+   "haberler": [
+    {
+     "metin": "TCMB bugün reel kesim güven endeksi ve kapasite kullanım oranını, TÜİK kasım tüketici güven endeksini açıklıyor",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    },
+    {
+     "metin": "Enerji Bakanı Bayraktar Oruç Reis Sismik Araştırma Gemisi'nin Karaçi'deki karşılama törenine katılıyor; Bayraktar Pakistan'da önemli maden kaynakları bulunduğunu söyledi",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    },
+    {
+     "metin": "Moody's ABD ekonomisi için borç uyarısında bulundu; Japonya Merkez Bankası Başkanı Ueda faiz artırımına kapı araladı",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    }
+   ],
+   "metin": "• TCMB bugün reel kesim güven endeksi ve kapasite kullanım oranını, TÜİK kasım tüketici güven endeksini açıklıyor (Bloomberg HT)\n\n• Enerji Bakanı Bayraktar Oruç Reis Sismik Araştırma Gemisi'nin Karaçi'deki karşılama törenine katılıyor; Bayraktar Pakistan'da önemli maden kaynakları bulunduğunu söyledi (Bloomberg HT)\n\n• Moody's ABD ekonomisi için borç uyarısında bulundu; Japonya Merkez Bankası Başkanı Ueda faiz artırımına kapı araladı (Bloomberg HT)"
+  },
+  {
+   "baslik": "Dünya",
+   "haberler": [
+    {
+     "metin": "Trump, Putin ile görüşmesinin ardından Ukrayna'da barış konusunda iyimser olduğunu söyledi; İran'a yönelik yeni saldırı seçeneklerini değerlendirdiği ancak acele etmediği bildirildi",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    },
+    {
+     "metin": "Kim Jong Un ile Trump arasında beklenen görüşme gerçekleşmedi",
+     "kaynak": "CNN Türk",
+     "link": "https://www.cnnturk.com/turkiye/20-kasim-2026-cuma-gununun-son-dakika-onemli-gelismeleri-cnn-turk-11-30-bulteni-3495665"
+    }
+   ],
+   "metin": "• Trump, Putin ile görüşmesinin ardından Ukrayna'da barış konusunda iyimser olduğunu söyledi; İran'a yönelik yeni saldırı seçeneklerini değerlendirdiği ancak acele etmediği bildirildi (Bloomberg HT)\n\n• Kim Jong Un ile Trump arasında beklenen görüşme gerçekleşmedi (CNN Türk)"
+  },
+  {
+   "baslik": "Spor",
+   "haberler": [
+    {
+     "metin": "Ampute Futbol Milli Takımı, Meksika'daki Dünya Kupası çeyrek finalinde Japonya ile karşılaştı",
+     "kaynak": "En Son Dakika / AA",
+     "link": "https://www.ensondakika.com.tr/gundem-ozeti-20-kasim-2026/744169/"
+    },
+    {
+     "metin": "EuroLeague'de Anadolu Efes 20.30'da ASVEL'i ağırlıyor, Beşiktaş Fuzul 22.45'te Partizan deplasmanında; Süper Lig milli aranın ardından hafta sonu yeniden başlıyor",
+     "kaynak": "En Son Dakika / AA",
+     "link": "https://www.ensondakika.com.tr/gundem-ozeti-20-kasim-2026/744169/"
+    }
+   ],
+   "metin": "• Ampute Futbol Milli Takımı, Meksika'daki Dünya Kupası çeyrek finalinde Japonya ile karşılaştı (En Son Dakika / AA)\n\n• EuroLeague'de Anadolu Efes 20.30'da ASVEL'i ağırlıyor, Beşiktaş Fuzul 22.45'te Partizan deplasmanında; Süper Lig milli aranın ardından hafta sonu yeniden başlıyor (En Son Dakika / AA)"
+  }
+ ],
+ "kaynaklar": [
+  "Bloomberg HT",
+  "CNN Türk",
+  "En Son Dakika / AA",
+  "NTV"
+ ]
+}

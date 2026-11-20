@@ -1,0 +1,75 @@
+{
+ "tarih": "2026-11-19",
+ "saat": "19:00",
+ "yayin": "2026-11-19T19:30:00+03:00",
+ "tur": "yz",
+ "baslik": "19 Kasım 2026 Akşam Özeti",
+ "giris": "Trump, Putin ve Şi APEC'te ilk kez üçlü zirvede buluştu, dört maddelik ortak bildiri yayımlandı. COP31'de ikinci taslak metin açıklandı, konferansın uzaması bekleniyor. Borsa yüzde 0,67 düşüşle 11.400 puanda kapandı.",
+ "bolumler": [
+  {
+   "baslik": "Dünya",
+   "haberler": [
+    {
+     "metin": "Trump, Putin ve Şi, Çin'in Shenzhen kentindeki APEC zirvesinde ilk üçlü görüşmeyi yaptı; ortak bildiri nükleer risklerin azaltılması için diyalog, yakıt arzının artırılması ve BM Güvenlik Konseyi reformu çağrısı yaptı",
+     "kaynak": "Diken",
+     "link": "https://www.diken.com.tr/trump-putin-ve-si-gorusmesi-one-cikan-bes-baslik/"
+    },
+    {
+     "metin": "Üçlü zirvede yeni bir silah kontrolü anlaşmasına varılmadı; Ukrayna, Gazze ve İsrail bildiride yer almadı. Trump ayrıca Şi ve Putin ile ayrı ayrı görüştü",
+     "kaynak": "AA",
+     "link": "https://www.aa.com.tr/tr/dunya/trump-apec-zirvesi-kapsaminda-si-ve-putin-ile-ayri-ayri-gorustu/4129945"
+    },
+    {
+     "metin": "Husiler, Riyad'ın finans merkezine saldırı düzenlediklerini açıkladı; Aramco binasının hasar gördüğü bildirildi",
+     "kaynak": "Al-Monitor",
+     "link": "https://www.al-monitor.com/originals/2026/11/houthis-claim-attack-riyadh-financial-district-aramco-tower-damaged"
+    }
+   ],
+   "metin": "• Trump, Putin ve Şi, Çin'in Shenzhen kentindeki APEC zirvesinde ilk üçlü görüşmeyi yaptı; ortak bildiri nükleer risklerin azaltılması için diyalog, yakıt arzının artırılması ve BM Güvenlik Konseyi reformu çağrısı yaptı (Diken)\n\n• Üçlü zirvede yeni bir silah kontrolü anlaşmasına varılmadı; Ukrayna, Gazze ve İsrail bildiride yer almadı. Trump ayrıca Şi ve Putin ile ayrı ayrı görüştü (AA)\n\n• Husiler, Riyad'ın finans merkezine saldırı düzenlediklerini açıkladı; Aramco binasının hasar gördüğü bildirildi (Al-Monitor)"
+  },
+  {
+   "baslik": "Gündem",
+   "haberler": [
+    {
+     "metin": "COP31'de müzakerelere ilişkin ikinci taslak metin yayımlandı: 80 paragraflık metinde gelişmekte olan ülkelerin 2030'a kadar 5,1-6,8 trilyon dolarlık finansman ihtiyacına dikkat çekildi, fosil yakıtlara doğrudan atıf yer almadı",
+     "kaynak": "AA",
+     "link": "https://www.aa.com.tr/tr/gundem/cop31de-muzakerelere-iliskin-ikinci-taslak-metin-yayimlandi/4130995"
+    },
+    {
+     "metin": "COP31'in uzlaşma sağlanması için planlanan kapanış tarihinin ötesine uzaması bekleniyor",
+     "kaynak": "NTV",
+     "link": "https://www.ntv.com.tr/gundem/cop31-uzayabilir-uzlasma-saglanmasi-bekleniyor-1751725"
+    }
+   ],
+   "metin": "• COP31'de müzakerelere ilişkin ikinci taslak metin yayımlandı: 80 paragraflık metinde gelişmekte olan ülkelerin 2030'a kadar 5,1-6,8 trilyon dolarlık finansman ihtiyacına dikkat çekildi, fosil yakıtlara doğrudan atıf yer almadı (AA)\n\n• COP31'in uzlaşma sağlanması için planlanan kapanış tarihinin ötesine uzaması bekleniyor (NTV)"
+  },
+  {
+   "baslik": "Ekonomi",
+   "haberler": [
+    {
+     "metin": "BIST 100 günü yüzde 0,67 düşüşle 11.400 puanda tamamladı",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    },
+    {
+     "metin": "Fed Başkan Yardımcısı Barr para politikasında ayarlama gerektiğini söyledi; Goolsbee gümrük vergilerinden kaynaklanan enflasyondan endişe duyduğunu belirtti",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    },
+    {
+     "metin": "Yapay zeka şirketi Anthropic'in hisseleri halka arzın ardından ilk işlem gününde halka arz fiyatının yaklaşık yüzde 30 üzerinde işlem gördü",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/ekonomi-ve-siyaset-gundemi-20-kasim-2026-3795201"
+    }
+   ],
+   "metin": "• BIST 100 günü yüzde 0,67 düşüşle 11.400 puanda tamamladı (Bloomberg HT)\n\n• Fed Başkan Yardımcısı Barr para politikasında ayarlama gerektiğini söyledi; Goolsbee gümrük vergilerinden kaynaklanan enflasyondan endişe duyduğunu belirtti (Bloomberg HT)\n\n• Yapay zeka şirketi Anthropic'in hisseleri halka arzın ardından ilk işlem gününde halka arz fiyatının yaklaşık yüzde 30 üzerinde işlem gördü (Bloomberg HT)"
+  }
+ ],
+ "kaynaklar": [
+  "AA",
+  "Al-Monitor",
+  "Bloomberg HT",
+  "Diken",
+  "NTV"
+ ]
+}
