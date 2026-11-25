@@ -1,0 +1,60 @@
+{
+ "tarih": "2026-11-24",
+ "saat": "23:00",
+ "yayin": "2026-11-24T23:50:00+03:00",
+ "tur": "yz",
+ "baslik": "24 Kasım 2026 Akşam Özeti",
+ "giris": "Eskişehir'de eğitim uçuşundaki Hava Kuvvetleri'ne ait AS-532 helikopteri kırıma uğradı, 5 asker şehit oldu. Galatasaray, Aston Villa'yı Deniz Gül'ün golüyle 1-0 yenerek Şampiyonlar Ligi'nde üst üste üçüncü galibiyetini aldı. Borsa 11 bin puanın altına geriledi.",
+ "bolumler": [
+  {
+   "baslik": "Gündem",
+   "haberler": [
+    {
+     "metin": "Eskişehir'de eğitim uçuşu yapan Hava Kuvvetleri'ne ait AS-532 tipi helikopter kaza kırıma uğradı; MSB 5 askerin şehit olduğunu duyurdu, Cumhurbaşkanı Erdoğan ve siyasi parti liderleri taziye mesajı yayımladı",
+     "kaynak": "Sabah",
+     "link": "https://www.sabah.com.tr/gundem/2026/11/25/askeri-helikopter-kazaya-ugradi-5-asker-sehit"
+    },
+    {
+     "metin": "Kaza bölgesine çok sayıda ekip sevk edildi; kazanın nedenine ilişkin inceleme başlatıldı",
+     "kaynak": "A Haber",
+     "link": "https://www.ahaber.com.tr/yasam/2026/11/24/eskisehirde-hava-araci-dustu-bolgeye-cok-sayida-ekip-sevk-edildi"
+    }
+   ],
+   "metin": "• Eskişehir'de eğitim uçuşu yapan Hava Kuvvetleri'ne ait AS-532 tipi helikopter kaza kırıma uğradı; MSB 5 askerin şehit olduğunu duyurdu, Cumhurbaşkanı Erdoğan ve siyasi parti liderleri taziye mesajı yayımladı (Sabah)\n\n• Kaza bölgesine çok sayıda ekip sevk edildi; kazanın nedenine ilişkin inceleme başlatıldı (A Haber)"
+  },
+  {
+   "baslik": "Ekonomi",
+   "haberler": [
+    {
+     "metin": "BIST 100 günü 10.966 puana gerileyerek tamamladı; dolar 50,62 liraya yükseldi",
+     "kaynak": "Memurlar.net",
+     "link": "https://www.memurlar.net/haber/1185139/25-kasim-2026-dan-onemli-gundem-basliklari.html"
+    }
+   ],
+   "metin": "• BIST 100 günü 10.966 puana gerileyerek tamamladı; dolar 50,62 liraya yükseldi (Memurlar.net)"
+  },
+  {
+   "baslik": "Spor",
+   "haberler": [
+    {
+     "metin": "Galatasaray, Şampiyonlar Ligi 5. haftasında Aston Villa'yı Deniz Gül'ün golüyle 1-0 yendi ve üst üste üçüncü galibiyetini alarak 3 maçlık kulüp rekorunu egale etti",
+     "kaynak": "Ankara Masası",
+     "link": "https://www.ankaramasasi.com.tr/haber/2231036/galatasaray-aston-villa-yi-deniz-gul-un-goluyle-1-0-yendi"
+    },
+    {
+     "metin": "Real Madrid, PSV'yi 5-1 yendi",
+     "kaynak": "En Son Dakika / AA",
+     "link": "https://www.ensondakika.com.tr/gundem-ozeti-24-kasim-2026/746730/"
+    }
+   ],
+   "metin": "• Galatasaray, Şampiyonlar Ligi 5. haftasında Aston Villa'yı Deniz Gül'ün golüyle 1-0 yendi ve üst üste üçüncü galibiyetini alarak 3 maçlık kulüp rekorunu egale etti (Ankara Masası)\n\n• Real Madrid, PSV'yi 5-1 yendi (En Son Dakika / AA)"
+  }
+ ],
+ "kaynaklar": [
+  "A Haber",
+  "Ankara Masası",
+  "En Son Dakika / AA",
+  "Memurlar.net",
+  "Sabah"
+ ]
+}
