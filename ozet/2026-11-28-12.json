@@ -1,0 +1,63 @@
+{
+ "tarih": "2026-11-28",
+ "saat": "12:00",
+ "yayin": "2026-11-28T12:45:00+03:00",
+ "tur": "yz",
+ "baslik": "28 Kasım 2026 Sabah Özeti",
+ "giris": "Fon yatırımcılarının yüzde 88'ine kalan ödemeler dün hesaplara geçti. İstanbul'a Sibirya soğukları geliyor. Süper Lig'de bugün Samsunspor-Gençlerbirliği ve Gaziantep FK-Amedspor oynanıyor; Beşiktaş-Galatasaray derbisi pazartesi akşamı.",
+ "bolumler": [
+  {
+   "baslik": "Gündem",
+   "haberler": [
+    {
+     "metin": "Fon tasfiyesinde 401.754 yatırımcının net yatırım tutarının tamamı ara ödeme olarak 27 Kasım'da hesaplara aktarıldı; 9 fonda süreç sürüyor",
+     "kaynak": "İstiklal",
+     "link": "https://www.istiklal.com.tr/gundem/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-1111745h"
+    },
+    {
+     "metin": "AKOM, Sibirya kaynaklı soğuk havanın İstanbul'a ulaşacağını açıkladı; sıcaklıkların sert düşmesi bekleniyor",
+     "kaynak": "İstiklal",
+     "link": "https://www.istiklal.com.tr/genel/gunun-ozeti-27-11-2026-cuma-1111832h"
+    },
+    {
+     "metin": "Batum'daki olaylar nedeniyle Türkiye-Gürcistan arasında diplomatik temaslar sürüyor",
+     "kaynak": "İstiklal",
+     "link": "https://www.istiklal.com.tr/genel/gunun-ozeti-27-11-2026-cuma-1111832h"
+    }
+   ],
+   "metin": "• Fon tasfiyesinde 401.754 yatırımcının net yatırım tutarının tamamı ara ödeme olarak 27 Kasım'da hesaplara aktarıldı; 9 fonda süreç sürüyor (İstiklal)\n\n• AKOM, Sibirya kaynaklı soğuk havanın İstanbul'a ulaşacağını açıkladı; sıcaklıkların sert düşmesi bekleniyor (İstiklal)\n\n• Batum'daki olaylar nedeniyle Türkiye-Gürcistan arasında diplomatik temaslar sürüyor (İstiklal)"
+  },
+  {
+   "baslik": "Ekonomi",
+   "haberler": [
+    {
+     "metin": "BIST 100 haftayı 10.977 puandan kapattı; 25 Kasım'da 10.656'ya kadar gerileyen endeks son iki günde toparlandı",
+     "kaynak": "Bloomberg HT",
+     "link": "https://www.bloomberght.com/piyasa-ozeti-27-kasim-2026-borsa-doviz-altin-ve-kripto-piyasalarindaki-son-durum-pkh-3795975"
+    }
+   ],
+   "metin": "• BIST 100 haftayı 10.977 puandan kapattı; 25 Kasım'da 10.656'ya kadar gerileyen endeks son iki günde toparlandı (Bloomberg HT)"
+  },
+  {
+   "baslik": "Spor",
+   "haberler": [
+    {
+     "metin": "Süper Lig 13. hafta bugün: Samsunspor-Gençlerbirliği 16.00, Gaziantep FK-Amedspor 19.00; yarın Çorum FK-Kocaelispor 13.30, Eyüpspor-Başakşehir 16.00, Fenerbahçe-Erzurumspor 19.00",
+     "kaynak": "Habertürk",
+     "link": "https://www.haberturk.com/spor/trendyol-super-lig-de-13-hafta-heyecani-3930247"
+    },
+    {
+     "metin": "Haftanın derbisi Beşiktaş-Galatasaray, 30 Kasım Pazartesi saat 21.00'de Tüpraş Stadı'nda oynanacak",
+     "kaynak": "Habertürk",
+     "link": "https://www.haberturk.com/spor/trendyol-super-lig-de-13-hafta-heyecani-3930247"
+    }
+   ],
+   "metin": "• Süper Lig 13. hafta bugün: Samsunspor-Gençlerbirliği 16.00, Gaziantep FK-Amedspor 19.00; yarın Çorum FK-Kocaelispor 13.30, Eyüpspor-Başakşehir 16.00, Fenerbahçe-Erzurumspor 19.00 (Habertürk)\n\n• Haftanın derbisi Beşiktaş-Galatasaray, 30 Kasım Pazartesi saat 21.00'de Tüpraş Stadı'nda oynanacak (Habertürk)"
+  }
+ ],
+ "kaynaklar": [
+  "Bloomberg HT",
+  "Habertürk",
+  "İstiklal"
+ ]
+}
